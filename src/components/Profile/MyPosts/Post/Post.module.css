@@ -1,0 +1,18 @@
+.post {
+   padding: 10px 20px;
+}
+
+.post_wrapper {
+   display: flex;
+   align-items: center;
+}
+
+.post_wrapper img {
+   width: 40px;
+   border-radius: 50%;
+   margin-right: 15px;
+}
+
+.post__likes {
+   font-size: 14px;
+}

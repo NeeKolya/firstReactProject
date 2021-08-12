@@ -1,0 +1,23 @@
+.inputs {
+   margin: 20px 10px;
+}
+
+.textarea {
+   padding: 10px;
+   border: 1px solid rgba(0, 0, 0, 0.5);
+   resize: none;
+}
+
+.btn {
+   border: 1px solid rgba(0, 0, 0, 0.5);
+   border-radius: 3px;
+   display: block;
+   padding: 4px 20px;
+   font-size: 16px;
+   cursor: pointer;
+   transition: 0.1s ease;
+}
+
+.btn:hover {
+   background-color: rgba(177, 182, 35, 0.904);
+}
